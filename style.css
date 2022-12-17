@@ -183,7 +183,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(/images/Standing.jpg);
+	background-image: url(images/Standing.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
